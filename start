@@ -1,4 +1,4 @@
-git clone https://github.com/ITZ-ZAID/ZAID-USERBOT Zaid
-cd Zaid
+git clone https://github.com/bitchlah/tesss ALBY
+cd ALBY
 pip3 install -U -r requirements.txt
 python3 main.py
