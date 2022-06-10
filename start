@@ -1,4 +1,4 @@
-git clone https://github.com/bitchlah/tesss ALBY
-cd ALBY
+git clone https://github.com/bitchlah/tesss Zaid
+cd Zaid
 pip3 install -U -r requirements.txt
 python3 main.py
